@@ -18,6 +18,7 @@ public class ClusterCrm {
 		return new OpenAPI()
 				.components(new Components())
 				.info(new Info().title("Cluster Crm"));
+
 	}
 
 }
